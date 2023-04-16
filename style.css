@@ -1,0 +1,22 @@
+.cabeçalho {
+background-color: #000;
+color: #fff;
+display: flex;
+justify-content: space-around;
+align-items: center ;
+padding: 20px 0;
+}
+
+.logo{
+width: 10%;
+}
+.cabeçalho-image{
+    display: inline-block;
+    margin: 0 16px ;
+font-size: 24px;
+}
+.produto{
+    width: 23%;
+    height: 30%;
+}
+
